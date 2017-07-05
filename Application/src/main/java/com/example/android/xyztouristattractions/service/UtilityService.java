@@ -139,6 +139,7 @@ public class UtilityService extends IntentService {
             // If location unknown use test city, otherwise use closest city
             String city = currentLocation == null ? TouristAttractions.TEST_CITY :
                     TouristAttractions.getClosestCity(currentLocation);
+            System.out.println(currentLocation);
 
             showNotification(city,
                     intent.getBooleanExtra(EXTRA_TEST_MICROAPP, Constants.USE_MICRO_APP));
@@ -233,6 +234,7 @@ public class UtilityService extends IntentService {
                 lastLocationIntent.putExtra(
                         FusedLocationProviderApi.KEY_LOCATION_CHANGED, location);
                 startService(lastLocationIntent);
+                System.out.println(location);
             }
 
             // Request new location

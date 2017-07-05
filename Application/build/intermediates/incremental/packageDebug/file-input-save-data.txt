@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jul 05 18:48:51 IDT 2017
+#Wed Jul 05 19:31:36 IDT 2017
 210.set=ANDROID_RESOURCE
 282.file=C\:\\Users\\ifriedma\\AndroidStudioProjects\\XYZTouristAttractions\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\design_navigation_item.xml
 14.set=ANDROID_RESOURCE

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\1fd0a247118eaa2fa487d66bd64eacf33ae3b3b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_fd569d140d95b5f7a777077107ef0e3cb82ef485.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\3e5a3f0d45efb9eb26f0af7c86b072490ac19c03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_8e7667a8efc9938d88fbdc3cbcfa0cedc5e06606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Shared\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a5522b8d53b6647334ac07a96cbb5df64a775a5c">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_eed5fc15d2b523c488edb2dbccc34a74bc823c57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\5039ca7d10bda2e84368c4459a1567000d87e42d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_65e9928e749ae5ed2a8023a32b036e2a50a3115a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\011cdddb1ab6571f809dc8e35a2e904511764538\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_4c2e982c806794f40d34bb8385c3eb97b4dc606c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\4bf4deaa96e341dd0f82ad942765454d55b8fe1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_88f21869c83847b7033fc7e08fb4d8012202136d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\65217b5eb9d635dc6c113be737064cd8061c459b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_9ddf450a10df9d2450011cd811b64c9e89617ae2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\64053c36a49106e604258744a633510eece36235\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_70f03b3dc66d058ba77ac0d5e3643e83b51bcec3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\0f3dc2d9bc66229e16bbae61ee458d8a3ef5735f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_bdb03acb20bad1ad22cb786bcd5245cd266addd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\f3350009de1f0ba5763ecf0265f46e65889ea313\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_80996da00587a6981a48aae25c1e949e689a0a29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\813aab46386bc0a5b2f9815397f4f93717a9027f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_c506f4d4a93c299e05ccbf82bcd7a38d706a3e1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\89ae9e125f5dda12c12433649fb6bed5da8011e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_c592e284dfa7317cc58d4e510cb16655ad41833f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\5431e033917acf1ae4e26b75a0cdf2eaa68f2d43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_75ae28e0cc70b2e058a39d584c6b60ac46642350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\cd4f57960812d5b1f2f3dbc87e5c3b3fc824ec38\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_e7b0cd039d94ba27027f60c7d4c5bd8e73005cb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\ac92a43927acf98657cf756001ce793a27a0e1a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_4b4640d73355ea22a4d4bb60ed947f51b956d9d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\e117fd9ab23574e7a6bca52f903b24b9a1e19070\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_a0566642885f73fccb995ec125510bf934837f6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\glide-3.6.1_fb1904cc0ef1e5518b7fb0bbdcee21aed52401ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1307198c7c3a67799ca101148b107c314ac62a85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\b265ea132e62e53e426610e44ac243f1d9cab795\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_2728e8db35cd41e15e927aea77e54147e4cd1eb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\cc76e3c1941d454a15fa5995014ce7969e29dd63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_446987befe8d654d3c93415ac826b05ac3092b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\2d1125e5abca5e70dcc05c42e054af97d22c37ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_5537f0f9407084a2b3b89e4f3cd1e582e0a1fee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\aa233dd3781e64ef064ca581aa586c04716fb960\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_fcf8d7ae0e61febafd9e6bcb4403b14666369661.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ifriedma\.android\build-cache\267fa2c648eb1ad34c91a18cb692dadfe86bdf4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\ifriedma\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_30472cb3fc291f9358168d2ee3aa1f2996a53a0f.jar" />
+    </item>
+
+</items>

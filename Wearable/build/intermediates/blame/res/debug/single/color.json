@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ifriedma\\AndroidStudioProjects\\XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\color\\card_text_color.xml",
+        "source": "C:\\Users\\ifriedma\\.android\\build-cache\\976232ef021419f25c64b04cac2d842b704285bb\\output\\res\\color\\card_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\ifriedma\\AndroidStudioProjects\\XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\color\\card_grey_text_color.xml",
+        "source": "C:\\Users\\ifriedma\\.android\\build-cache\\976232ef021419f25c64b04cac2d842b704285bb\\output\\res\\color\\card_grey_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\ifriedma\\AndroidStudioProjects\\XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\color\\circular_button.xml",
+        "source": "C:\\Users\\ifriedma\\.android\\build-cache\\976232ef021419f25c64b04cac2d842b704285bb\\output\\res\\color\\circular_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ifriedma\\AndroidStudioProjects\\XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ifriedma\\.android\\build-cache\\5039ca7d10bda2e84368c4459a1567000d87e42d\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ifriedma\\AndroidStudioProjects\\XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ifriedma\\.android\\build-cache\\5039ca7d10bda2e84368c4459a1567000d87e42d\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ifriedma\\AndroidStudioProjects\\XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\ifriedma\\.android\\build-cache\\5039ca7d10bda2e84368c4459a1567000d87e42d\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]
